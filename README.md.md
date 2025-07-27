@@ -1,62 +1,44 @@
-# GeminiDesk 🧠💬
-
-**Simulador de Assistente Virtual com Interface Windows Forms em C#**
 
 ---
 
-## 📌 Descrição
+## 🚀 Como Executar
 
-O **GeminiDesk** é um projeto desktop desenvolvido com **C# e Windows Forms**, que simula a interação com uma inteligência artificial básica. A aplicação permite ao usuário enviar perguntas, obter respostas automáticas, visualizar histórico e realizar ações como limpar, salvar e copiar as conversas.
-
-Este projeto foi idealizado como parte do meu aprendizado prático em desenvolvimento desktop, com foco em lógica de programação, manipulação de arquivos e experiência do usuário (UX).
-
----
-
-## 🎯 Funcionalidades
-
-- ✅ Interface simples e funcional com botões personalizados
-- ✅ Resposta simulada de uma IA com base em texto fixo (pode ser expandido)
-- ✅ Histórico completo da conversa no campo lateral direito
-- ✅ Botões para:
-  - Enviar pergunta
-  - Limpar a interface
-  - Salvar conversa em `.txt`
-  - Copiar resposta
-- ✅ Ícones personalizados para uma experiência mais rica
-- ✅ Respostas com timestamp (opcional)
+1. Abra o projeto no **Visual Studio**
+2. Restaure os pacotes (caso necessário)
+3. Compile e execute com `Ctrl + F5`
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📷 Captura de Tela
 
-- **C#**
-- **.NET Framework**
-- **Windows Forms**
-- Manipulação de arquivos (`System.IO`)
-- Programação assíncrona (`async/await`)
-- Customização de UI (ícones, controles, bordas)
+![GeminiDesk Screenshot](screenshot.png)
 
 ---
 
-## 📁 Estrutura do Projeto
+## 💡 Possíveis Melhorias Futuras
 
-GeminiDesk/
-├── imagens/
-│   └── enviar.png
-├── Itens de Solução/
-│   └── GeminiDesk/
-│       ├── Dependências/
-│       ├── Analisadores/
-│       ├── Estruturas/
-│       ├── Pacotes/
-│       ├── Properties/
-│       │   ├── appsettings.example.json
-│       │   ├── Resources.resX
-│       │   └── Resources.Designer.cs
-│       ├── .gitignore
-│       ├── Form1.cs
-│       ├── Form1.Designer.cs
-│       ├── Form1.resx
-│       └── Program.cs
-└── Program
+- Integração com APIs reais de IA (ex: OpenAI, Azure, etc)
+- Armazenamento em banco de dados
+- Dark Mode
+- Logs detalhados
+- Suporte a múltiplas janelas
+
+---
+
+## 👨‍💻 Autor
+
+**Davi Santana Cairo**  
+🚀 Desenvolvedor em transição de carreira  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+🌐 [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/davi-santana-cairo-797a38141/)  
+📁 [github.com/seu-usuario](https://github.com/dcair2024)
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para estudar, modificar e compartilhar!
+
+---
+
 
