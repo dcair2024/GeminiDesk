@@ -15,7 +15,8 @@
 
 ---
 
-## 💡 Possíveis Melhorias Futuras
+## 💡 Possíveis Melhorias Futuras<img width="455" height="671" alt="screenshot" src="https://github.com/user-attachments/assets/c4dda248-da16-4b25-9243-39873b826221" />
+
 
 - Integração com APIs reais de IA (ex: OpenAI, Azure, etc)
 - Armazenamento em banco de dados
