@@ -1,0 +1,53 @@
+# Ignore o arquivo com sua chave da API
+appsettings.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilação
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Arquivos de build
+*.Build.csdef
+*.dbmdl
+
+# Backup e arquivos temporários
+*.bak
+*.tmp
+*.swp
+*.~*
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Pacotes e dependências
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Auto gerados por designer
+*.Designer.cs
+
+# Arquivos de publicação
+publish/
